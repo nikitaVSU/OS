@@ -1,1 +1,1 @@
-### gcc task.c -o firstprocess && ./firstprocess
+gcc task.c -o firstprocess && ./firstprocess
