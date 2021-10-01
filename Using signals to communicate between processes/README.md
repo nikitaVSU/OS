@@ -7,7 +7,7 @@ gcc Receiver.c -или && ./r
 Отправить сигнал:
 
 
-gcc emitter.c -oe && ./e Сигнал ПИД-регулятора
+gcc Emitter.c -oe && ./e Сигнал ПИД-регулятора
 
 
 Где
